@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+    {% include head.html %}
+    <body>
+        {% include header.html %}
+        <div class="main container-fluid">  
+            <div class="row">
+                <div class="col-lg-3 sidebar d-none d-lg-block">
+                    {% include sidebar.html %}
+                </div>
+                <div class="col-lg-9 content">
+                    {% if page.zeu == 1 %}
+                        <p class="alert alert-success">Zeu's Guide to Fun and Success with Custom Magic is reproduced here with permission of the author.</p>
+                    {% endif %}
+                    <h1>{{ page.title }}</h1>
+                    {{ content }}
+                </div>
+            </div>
+        </div>
+        {% include footer.html %}
+        {% include scripts.html %}
+    </body>
+</html>

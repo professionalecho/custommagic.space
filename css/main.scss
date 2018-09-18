@@ -1,0 +1,95 @@
+---
+---
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+.active {
+    font-weight:700;
+}
+
+body {
+    margin-bottom: 60px;
+    font-family:'Roboto';
+    background-color: #fafafa ;
+}
+
+.navbar {
+    background-color:#346088!important;
+    ul {
+        list-style-type:none;
+    }
+    h4 {
+        margin:0;
+        &:hover {
+            &::after {
+                content: "    \f015";
+                font-family: FontAwesome;
+                font-size:.875em;
+            }
+        }
+    }
+    li, a {
+        text-decoration:none;
+        color:#eee!important;        
+    }
+    .navbar-collapse li {
+        margin-top:10px;
+        margin-bottom:10px;
+    }
+    .subitem {
+       font-size:14px;
+       word-wrap: break-word;
+    }
+}
+
+.sidebar {
+    ul, li, a, a:hover {
+        text-decoration:none;
+        color:#0f0f0f;
+        list-style-type:none;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    .subitem {
+       font-size:14px;
+       word-wrap: break-word;
+    }    
+}
+
+.sidebar-sticky {
+    position:fixed;
+}
+
+.main {
+    margin-top:30px;
+    .content {
+        max-width:800px;
+        a {
+            color:#517A9E;
+            border-bottom:1px dotted #517A9E;
+            &:hover {
+                text-decoration:none;
+                border-bottom:none;
+                color:#517A9E;
+            }
+        }
+        a.anchorjs-link {
+            color:#517a9e;
+            border:none;   
+        }
+    }
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    min-height: 60px; /* Set the fixed height of the footer here */
+    p {
+        text-align:center;
+        font-size:11px;
+        color:#a7a7a7
+    }
+}

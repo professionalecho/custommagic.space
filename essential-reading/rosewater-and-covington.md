@@ -1,7 +1,9 @@
 ---
 layout: default
-title: Mark Rosewater
+title: Rosewater & Covington
 ---
+## Mark Rosewater
+
 Mark Rosewater is the Head Designer of Magic, and has probably written more about designing cards than anyone else in the world in his [Making Magic](http://magic.wizards.com/en/articles/columns/making-magic-archive) column.
 
 *   [Design 101](http://magic.wizards.com/en/articles/archive/making-magic/design-101-2003-04-21) describes the common mistakes most novice designers make.
@@ -70,3 +72,13 @@ Finally, these two articles cover issues of complexity, especially in commons.
 
 *   [New World Order](http://magic.wizards.com/en/articles/archive/making-magic/new-world-order-2011-12-02)
 *   [Lenticular Design](http://magic.wizards.com/en/articles/archive/making-magic/lenticular-design-2014-12-15)
+
+## Reuben Covington
+
+Reuben Covington has written three terrific primers specifically for designers.
+
+*   [Playtesting](http://www.mtgsalvation.com/forums/creativity/custom-card-creation/631419-primer-how-to-playtest-your-cards-both-on-paper)
+*   [Custom Set Skeletons](http://www.mtgsalvation.com/forums/creativity/custom-card-creation/597944-primer-set-skeletons)
+*   [New World Order + Redflagging](http://www.mtgsalvation.com/forums/creativity/custom-card-creation/578926-primer-nwo-redflagging)
+
+Relatedly, a very comprehensive [FAQ](http://www.mtgsalvation.com/forums/creativity/custom-card-creation/368161-card-making-faq) on the MTGSalvation forums

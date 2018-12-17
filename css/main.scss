@@ -67,12 +67,11 @@ body {
     .content {
         max-width:800px;
         a {
-            color:#517A9E;
-            border-bottom:1px dotted #517A9E;
+            color:#517A9E;;
             &:hover {
                 text-decoration:none;
                 border-bottom:none;
-                color:#517A9E;
+                color:hsl(208, 2%, 47%);
             }
         }
         a.anchorjs-link {

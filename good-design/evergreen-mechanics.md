@@ -47,19 +47,8 @@ This table shows where each evergreen mechanic falls in the color pie. Colors te
         <tr>
             <td><b>Flash</b> <i>(You may cast this spell any time you could cast an instant.)</i></td>
             <td><i class="ms ms-cost ms-u"></i></td>
-            <td><i class="ms ms-cost ms-g"></i></td>
-            <td>
-                <div class="row">
-                    <div class="col-sm-12">
-                        <i class="ms ms-cost ms-w"></i><i class="ms ms-cost ms-b"></i>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-sm-12">
-                        <i class="ms ms-cost ms-r"></i>
-                    </div>
-                </div>
-            </td>
+            <td><i class="ms ms-cost ms-g"></i><i class="ms ms-cost ms-b"></i></td>
+            <td><i class="ms ms-cost ms-w"></i><i class="ms ms-cost ms-r"></i></td>
         </tr>
         <tr>
             <td><b>Flying</b> <i>(This creature can't be blocked except by creatures with flying or reach.)</i></td>

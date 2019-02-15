@@ -11,6 +11,13 @@ html {
     }
 }
 
+td {
+    min-width:150px;
+    .ms {
+        font-size:24px;
+    }
+}
+
 .sidebar {
     background-color:#883434;
     h5 {
@@ -64,11 +71,11 @@ html {
             margin-left:135px;
         }
         a {
-            color:#883434;;
+            color:#dc3545;
             &:hover {
                 text-decoration:none;
                 border-bottom:none;
-                color:hsl(208, 2%, 47%);
+                color:#883434;
             }
             .anchorjs-link {
                 color:#883434;

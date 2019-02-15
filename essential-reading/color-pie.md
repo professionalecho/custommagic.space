@@ -2,7 +2,74 @@
 layout: default
 title: Color Pie
 ---
-The five colors of Magic each hold a unique place, mechanically and philosophically, in the game's universe. One of the most important aspects of design is ensuring that your cards are correctly placed in the "pie" of colors. You can read an excellent overview of the color pie on the [MTGSalvation Wiki](http://mtgsalvation.gamepedia.com/Color_Pie). You can also read more on color philosophy in the articles below:
+One of the most important aspects of design is ensuring that your cards are correctly placed in the "pie" of colors. The five colors of Magic each hold a unique place, mechanically and philosophically, in the game's universe.
+
+## Color Mechanics
+
+ You can read an excellent overview of the color pie on the [MTGSalvation Wiki](http://mtgsalvation.gamepedia.com/Color_Pie), but I've surmised the basic mechanical identities of each color below. For this section, I've tried to use common examples from core sets whenever possible. That's to demonstrate these effects in their most basic form, that you can then build off!
+ 
+ There's also the absolutely essential [Mechanical Color Pie 2017](https://magic.wizards.com/en/articles/archive/making-magic/mechanical-color-pie-2017-2017-06-05) article, which purports to lay out every mechanical aspect of the color pie. This is terribly useful for checking that the effect you've got is actually in that color.
+
+### <i class="ms ms-cost ms-w"></i> White
+
+* Damage prevention ([Safe Passage](https://scryfall.com/card/m13/30/safe-passage))
+* Life gain ([Revitalize](https://scryfall.com/card/m19/35/revitalize))
+* Total protection ([Stave Off](https://scryfall.com/card/m12/36/stave-off))
+* Small creatures ([Razorfoot Griffin](https://scryfall.com/card/m15/27/razorfoot-griffin))
+* Rules-setting and taxing ([Oppressive Rays](https://scryfall.com/card/m15/21/oppressive-rays))
+* Artifact and enchantment destruction ([Invoke the Divine](https://scryfall.com/card/m19/16/invoke-the-divine))
+* Balance and uniformity ([Wrath of God](https://scryfall.com/card/ema/38/wrath-of-god))
+* Peacemaking ([Pacifism](https://scryfall.com/card/m14/25/pacifism))
+* Combat superiority ([Heavy Infantry](https://scryfall.com/card/ori/18/heavy-infantry))
+* Total defense ([Divine Verdict](https://scryfall.com/card/ori/274/divine-verdict))
+
+### <i class="ms ms-cost ms-u"></i> Blue
+
+* Card draw ([Diviniation](https://scryfall.com/card/m19/51/divination))
+* Counterspells ([Cancel](https://scryfall.com/card/m19/48/cancel))
+* Mimicry ([Mirror Image](https://scryfall.com/card/m19/61/mirror-image))
+* Bounce ([Disperse](https://scryfall.com/card/m19/50/disperse))
+* Tapping and untapping permanents ([Claustrophobia](https://scryfall.com/card/ori/50/claustrophobia))
+* Gain control ([Mind Control](https://scryfall.com/card/m12/67/mind-control))
+* Trickery tactics ([Uncomfortable Chill](https://scryfall.com/card/m19/82/uncomfortable-chill))
+* Combat trickery ([Ghostform](https://scryfall.com/card/m19/58/ghostform))
+* Reality changing ([Primal Plasma](https://scryfall.com/card/pca/23/primal-plasma))
+
+### <i class="ms ms-cost ms-b"></i> Black
+
+* Creature destruction ([Murder](https://scryfall.com/card/m13/101/murder))
+* Culling the weak ([Fleshbag Marauder](https://scryfall.com/card/ori/98/fleshbag-marauder))
+* Malaise ([Strangling Spores](https://scryfall.com/card/m19/122/strangling-spores))
+* Parasitism ([Sovereign's Bite](https://scryfall.com/card/m19/120/sovereigns-bite))
+* Cloak and dagger ([Fetid Imp](https://scryfall.com/card/ori/97/fetid-imp))
+* Necromancy ([Macabre Waltz](https://scryfall.com/card/m19/108/macabre-waltz))
+* Card advantage ([Mind Rot](https://scryfall.com/card/m19/109/mind-rot))
+* Faustian bargain ([Sign in Blood](https://scryfall.com/card/m15/114/sign-in-blood))
+
+### <i class="ms ms-cost ms-r"></i> Red
+
+* Direct damage ([Shock](https://scryfall.com/card/m19/156/shock))
+* Artifact and land destruction ([Demolish](https://scryfall.com/card/ori/139/demolish))
+* Aggressive creatures ([Reckless Brute](https://scryfall.com/card/m13/144/reckless-brute))
+* Martial superiority ([Sure Strike](https://scryfall.com/card/m19/161/sure-strike))
+* Gambits and short-term acceleration ([Catalyst Elemental](https://scryfall.com/card/m19/132/catalyst-elemental))
+* Randomness ([Burning Inquiry](https://scryfall.com/card/m10/128/burning-inquiry))
+* Trickery ([Act of Treason](https://scryfall.com/card/m19/127/act-of-treason))
+
+### <i class="ms ms-cost ms-g"></i> Green
+
+* Powerful creatures ([Colossal Dreadmaw](https://scryfall.com/card/m19/172/colossal-dreadmaw))
+* Token creatures ([Zendikar's Roil](https://scryfall.com/card/ori/209/zendikars-roil))
+* Pump effects ([Titanic Growth](https://scryfall.com/card/m19/205/titanic-growth))
+* Instinct attack ([Prized Unicorn](https://scryfall.com/card/ori/287/prized-unicorn))
+* Natural evasion ([Sacred Wolf](https://scryfall.com/card/m12/194/sacred-wolf))
+* Natural blessing ([Daggerback Basilisk](https://scryfall.com/card/m19/174/daggerback-basilisk))
+* Mana ramp and fixing ([Rampant Growth](https://scryfall.com/card/m12/190/rampant-growth))
+* Artifact and enchantment destruction ([Naturalize](https://scryfall.com/card/m19/190/naturalize))
+
+## Color Philosophy
+
+Each of the articles below are by [Mark Rosewater](/essential-reading/mark-rosewater), and generally make up a series for each combination. There are no articles on four-color combinations, because the long and short of them is that they're hard to make feel distinct.
 
 Monocolor:
 

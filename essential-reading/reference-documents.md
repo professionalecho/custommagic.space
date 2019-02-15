@@ -3,8 +3,8 @@ layout: default
 title: Reference Documents
 ---
 *   [Scryfall](http://www.scryfall.com/): The best Magic card database out there. The advanced functions will save you so much time.
-*   [Comprehensive Rules](http://www.magic.wizards.com/en/gameinfo/gameplay/formats/comprehensiverules): Invaluable for those awkward rules interactions.
-*   [MTG Salvation Wiki](http://www.mtgsalvation.gamepedia.com/Main_Page): Excellent wiki on all aspects of the game.
+*   [Comprehensive Rules](http://magic.wizards.com/en/gameinfo/gameplay/formats/comprehensiverules): Invaluable for those awkward rules interactions.
+*   [MTG Salvation Wiki](https://mtg.gamepedia.com/Main_Page): Excellent and comprehensive wiki on all aspects of the game.
 *   [Marmaris74's Art Dump](https://www.dropbox.com/sh/pzxqydoz3ywp0od/AAAaQOVITIkmdU3xll6EkkzIa?dl=0): Over a thousand hand-picked fantasy pictures for your cards.
 *   [Websites for Art](http://www.magicseteditor.sourceforge.net/node/1242): A few dozen websites for appropriate art collected in one place!
 *   [The Custom Magic Mechanic Database](https://www.docs.google.com/spreadsheets/d/1To1RYFExABv2LFXZJm-YCzJ3CkVUsUcrB2YK8yT7BVU/edit#gid=0): 100+ custom mechanics from all across the internet. Hugely helpful for inspiration.

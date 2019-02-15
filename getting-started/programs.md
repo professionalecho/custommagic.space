@@ -4,7 +4,7 @@ title: Programs
 ---
 
 
-[Magic Set Editor](http://magicseteditor.sourceforge.net/download.html) is the best card creation program out there. Download it and start making cards!
+[Magic Set Editor](http://magicseteditor.boards.net/page/downloads) is the best card creation program out there. Download it and start making cards!
 
 Magic Set Editor is only available for PC, though you can reportedly use [Wine](https://www.winehq.org/). Otherwise, there's [Artifice](https://www.reddit.com/r/ArtificeMTG/), a Mac-specific program in early alpha that will hopefully progress. Poke around the Artifice subreddit to find the latest release.
 

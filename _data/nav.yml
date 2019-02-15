@@ -4,14 +4,15 @@
       - page: MSE 101
   - title: Essential Reading
     subfolderitems:
-      - page: Rosewater and Covington
+      - page: Mark Rosewater
       - page: Color Pie
       - page: Reference Documents
       - page: Community Hubs
   - title: Good Design
     subfolderitems:
+      - page: Abilities and Effects
+      - page: Card Types
       - page: Evergreen Mechanics
-      - page: Wording Tips
       - page: Gold vs. Hybrid
       - page: New World Order
   - title: Zeu's Guide

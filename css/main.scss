@@ -3,92 +3,117 @@
 html {
     position: relative;
     min-height: 100%;
-}
-
-.active {
-    font-weight:700;
-}
-
-body {
-    margin-bottom: 60px;
-    font-family:'Roboto';
-    background-color: #fafafa ;
-}
-
-.navbar {
-    background-color:#346088!important;
-    ul {
-        list-style-type:none;
-    }
-    h4 {
-        margin:0;
-        &:hover {
-            &::after {
-                content: "    \f015";
-                font-family: FontAwesome;
-                font-size:.875em;
-            }
-        }
-    }
-    li, a {
-        text-decoration:none;
-        color:#eee!important;        
-    }
-    .navbar-collapse li {
-        margin-top:10px;
-        margin-bottom:10px;
-    }
-    .subitem {
-       font-size:14px;
-       word-wrap: break-word;
+    body {
+        font-family:'Roboto';
+        background-color: #fafafa ;
+        line-height:1.6;
+        font-size:16px;
     }
 }
 
 .sidebar {
+    background-color:#883434;
+    h5 {
+        height:54px;
+        padding-top:16px;
+        background-color:#dc3545;
+        text-align:center;
+        color:white;
+    }
+    .nav {
+        margin-top:35px;
+        margin-left:45px;
+    }
     ul, li, a, a:hover {
         text-decoration:none;
-        color:#0f0f0f;
         list-style-type:none;
-        margin-top: 10px;
-        margin-bottom: 10px;
+        color:white;
+        padding-bottom:5px;
+        .active {
+            :before {
+                content: "\f005    ";
+                font-family: FontAwesome;
+            }
+        }
     }
     .subitem {
        font-size:14px;
-       word-wrap: break-word;
     }    
+    .section {
+        font-size:16px;
+        li {
+            margin-bottom: 10px;
+        }
+    }
 }
 
-.sidebar-sticky {
-    position:fixed;
-}
-
-.main {
-    margin-top:30px;
-    .content {
-        max-width:800px;
+.wrapper {
+    display: flex;
+    width: 100%;
+    align-items: stretch;
+    .main {
+        .navbar {
+            background-color:#fafafa!important;
+            .btn {
+               margin-left:19px; 
+            }
+        }
+        .content {
+            padding-top:35px;
+            max-width:900px;
+            margin-left:135px;
+        }
         a {
-            color:#517A9E;;
+            color:#883434;;
             &:hover {
                 text-decoration:none;
                 border-bottom:none;
                 color:hsl(208, 2%, 47%);
             }
+            .anchorjs-link {
+                color:#883434;
+               border:none;   
+            }
         }
-        a.anchorjs-link {
-            color:#517a9e;
-            border:none;   
-        }
+
     }
 }
 
-.footer {
-    position: absolute;
-    bottom: 0;
-    width: 100%;
-    min-height: 60px; /* Set the fixed height of the footer here */
-    p {
-        text-align:center;
-        font-size:11px;
-        color:#a7a7a7
+// Animation & Layout for Sidebar - thanks Bootstrapious! https://bootstrapious.com/p/bootstrap-sidebar
+
+#sidebar {
+    min-width: 400px;
+    max-width: 400px;
+    min-height: 100vh;
+    transition: all 0.3s;
+}
+
+#sidebar.active {
+    margin-left: -400px;
+}
+
+#main {
+    transition: all 0.3s;
+}
+
+#main.pushed {
+    margin-left:535px;
+}
+
+@media (max-width: 768px) {
+    #sidebar {
+        margin-left: -400px;
     }
+    #sidebar.active {
+        margin-left: 0;
+    }
+    .wrapper .main .content {
+        margin-left:0;
+        padding-left:35px;
+        padding-right:35px;
+    }
+    #main.pushed {
+        margin-left:0px;
+    }
+
 }

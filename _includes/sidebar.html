@@ -1,12 +1,13 @@
-<div class="sidebar-sticky">
+<h5><a href="{{ site.baseurl }}">The Custom Magic Space</a></h5>
+<div class="nav">
 <ul class="initial">
 {% for item in site.data.nav %}
-<li>{{ item.title }}</li>
+<li class="section">{{ item.title }}</li>
    <ul class="subitem">
     {% for entry in item.subfolderitems %}
       <li class="{% if page.title == entry.page %}active{% endif %}"><a href="{{ site.baseurl }}/{{ item.title | slugify }}/{{ entry.page | slugify }}">{{ entry.page }}</a></li>
     {% endfor %}
   </ul>
 {% endfor %}
-</ul>
-</div>
+    </ul>
+    </div>

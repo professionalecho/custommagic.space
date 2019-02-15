@@ -51,6 +51,7 @@ His Nuts and Bolts series go into explicit details about designing a set.
 *   [Nuts and Bolts 8: Troubleshooting](http://magic.wizards.com/en/articles/archive/making-magic/nuts-bolts-troubleshooting-2016-02-15)
 *   [Nuts and Bolts 9: Evaluation](https://magic.wizards.com/en/articles/archive/making-magic/nuts-bolts-evaluation-2017-02-20)
 *   [Nuts and Bolts 10: Creative Elements](https://magic.wizards.com/en/articles/archive/making-magic/nuts-bolts-10-creative-elements-2018-03-26)
+*   [Nuts and Bolts 11: Art](https://magic.wizards.com/en/articles/archive/making-magic/nuts-bolts-art-2019-02-11)
 
 Rosewater also applied Dieter Ram's Ten Principles for Good Design to Magic.
 
@@ -66,7 +67,7 @@ Rosewater also applied Dieter Ram's Ten Principles for Good Design to Magic.
     **7:** Good design is durable.  
     **8:** Good design is consequent to the last detail.  
     **9:** Good design is concerned with the environment.  
-    **1:** Good design is as little design as possible.  
+    **10:** Good design is as little design as possible.  
 
 Finally, these two articles cover issues of complexity, especially in commons.
 

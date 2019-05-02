@@ -87,12 +87,6 @@ This table shows where each evergreen mechanic falls in the color pie. For more 
             <td></td>
         </tr>
         <tr>
-            <td><b>Prowess</b> <i>(Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)</i></td>
-            <td><i class="ms ms-cost ms-u"></i></td>
-            <td><i class="ms ms-cost ms-r"></i></td>
-            <td><i class="ms ms-cost ms-w"></i></td>
-        </tr>
-        <tr>
             <td><b>Reach</b> <i>(This creature can block creatures with flying.)</i></td>
             <td><i class="ms ms-cost ms-g"></i></td>
             <td><i class="ms ms-cost ms-r"></i></td>

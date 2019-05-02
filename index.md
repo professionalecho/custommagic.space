@@ -9,7 +9,7 @@ We're also trying to be a one-stop shop for the more fiddly parts of the hobby, 
 
 We are proud to host Zeu's guide to ["Fun and Success with Custom Magic"](/zeu-s-guide/introduction), which can be really useful for learning about the kind of things you can make in the hobby, tips for making cards appealing and fun, and how best to utilise the community of the Custom Magic Discord.
 
-The Custom Magic Space aims to be as comprehensive as possible, so if you have an idea for content that we could use, we'd love to hear from you! See our [Contact](contact-us.html) page for details.
+The Custom Magic Space aims to be as comprehensive as possible, so if you have an idea for content that we could use, we'd love to hear from you! Send me an email [here](mailto:patrick.lickman@gmail.com).
 
 Enjoy the site!
 

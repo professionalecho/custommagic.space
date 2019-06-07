@@ -2,7 +2,7 @@
 layout: default
 title: New World Order
 ---
-When designing commons for a set, there is a strict limit on what is considered accpetable complexity. This was outlined in Mark Rosewater's article ["New World Order"](http://magic.wizards.com/en/articles/archive/making-magic/new-world-order-2011-12-02), and Reuben Covington did a stellar primer on how to design for NWO [here](http://www.mtgsalvation.com/forums/creativity/custom-card-creation/578926-primer-nwo-redflagging).
+When designing commons for a set, there is a strict limit on what is considered acceptable complexity. This was outlined in Mark Rosewater's article ["New World Order"](http://magic.wizards.com/en/articles/archive/making-magic/new-world-order-2011-12-02), and Reuben Covington did a stellar primer on how to design for NWO [here](http://www.mtgsalvation.com/forums/creativity/custom-card-creation/578926-primer-nwo-redflagging).
 
 The list below, pulled from Reuben's primer, indicates every indicator that a card is red-flagged (not typical at common). The two rules of thumb to remember are that 1) Less than 20% of your commons overall should be red-flagged, and 2) Any red-flagged cards you keep in your set must make an important contribution to the set's theme or limited environment. Each red flag has a linked example of how not to do it - for more information, check out the primer.
 
